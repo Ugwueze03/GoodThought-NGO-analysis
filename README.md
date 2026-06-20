@@ -30,7 +30,6 @@ This project answers two key business questions:
 
 - **Assignment_3033** received the highest single donation (**$3,840.66**), funded by **individual donors**.
 - Every region recorded at least one assignment with an impact score close to **10/10**, indicating consistently high project quality.
-- The **East** region attracted roughly **twice the total donations** of other regions despite having similarly high-impact projects, suggesting that funding levels may not be driven solely by project impact.
 - **Organizational donors** contributed higher average donation amounts per assignment than individual donors, making them the primary source of larger contributions.
 
 ---
