@@ -7,6 +7,7 @@ An end-to-end data analytics project using **PostgreSQL** and **Microsoft Excel*
 ---
 
 ## Dashboard Preview
+
 ![Dashboard](images/dashboard%20screenshot.png)
 
 ---
