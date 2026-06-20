@@ -50,7 +50,7 @@ GoodThought-NGO-Donation-Analysis/
 ├── sql/
 │   └── goodthought_analysis.sql
 │
-├── excel/
+├── result/
 │   └── goodthought_dashboard.xlsx
 │
 ├── images/
