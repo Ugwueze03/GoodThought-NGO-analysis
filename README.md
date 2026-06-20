@@ -60,11 +60,12 @@ GoodThought-NGO-Donation-Analysis/
 
 ---
 
-## SQL Queries
+## SQL Queries & Results
 
-The complete PostgreSQL queries used for this analysis are available in:
+### Query 1: Top 5 Assignments by Total Donation Amount, Split by Donor Type
+**SQL:** [View Code](sql/goodthought_analysis.sql#L1-L13)
+**Output:** [View CSV](result/query1_donations.csv)
 
-```text
-/sql/goodthought_analysis.sql
-Dashboard Preview
-:::
+### Query 2: Highest Impact Assignment per Region
+**SQL:** [View Code](sql/goodthought_analysis.sql#L15-L29)
+**Output:** [View CSV](result/query2_highest_regional_impa...)
