@@ -62,16 +62,16 @@ GoodThought-NGO-Donation-Analysis/
 ---
 ## 📜 SQL Queries & Results
 ### Query 1: Top 5 Assignments by Total Donation Amount, Split by Donor Type
-**SQL Script**
-➡️ **[goodthought_analysis.sql](./sql/goodthought_analysis.sql#L1-L13)**
-**Query Output**
-➡️ **[query1_donations.csv](./result/query1_donations.csv)
+#### SQL Script
+➡️ [goodthought_analysis.sql](./sql/goodthought_analysis.sql#L1-L13)
+#### Query Output
+➡️ [query1_donations.csv](./result/query1_donations.csv)
 ---
 ### Query 2: Highest Impact Assignment per Region
-**SQL Script**
-➡️ **[goodthought_analysis.sql](./sql/goodthought_analysis.sql#L15-L29)**
-**Query Output**
-➡️ **[query2_highest_regional_impact.csv](./result/query2_highest_regional_impact.csv)
+#### SQL Script
+➡️ [goodthought_analysis.sql](./sql/goodthought_analysis.sql#L15-L29)
+#### Query Output
+➡️ [query2_highest_regional_impact.csv](./result/query2_highest_regional_impact.csv)
 ---
 ## 📚 Skills Demonstrated
 - SQL Data Analysis
@@ -85,5 +85,5 @@ GoodThought-NGO-Donation-Analysis/
 - KPI Reporting
 ---
 ## 👤 Author
-**Stephen Ugwueze**
+Stephen Ugwueze
 Aspiring Data Analyst passionate about SQL, Excel, Power BI, and transforming raw data into meaningful insights.
