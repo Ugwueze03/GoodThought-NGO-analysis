@@ -83,3 +83,8 @@ GoodThought-NGO-Donation-Analysis/
 ### Query 2: Highest Impact Assignment per Region
 **SQL:** [View Code](sql/goodthought_analysis.sql#L15-L29)
 **Output:** [View CSV](result/query2_highest_regional_impa...)
+
+## Dashboard Preview
+![Dashboard](images/dashboard_screenshot.png)
+
+---
