@@ -45,16 +45,18 @@ This project answers two key business questions:
 ---
 
 ## Project Structure
+
 GoodThought-NGO-Donation-Analysis/
 │
 ├── sql/
-│   └── goodthought_analysis.sql
+│ └── goodthought_analysis.sql
 │
 ├── result/
-│   └── goodthought_dashboard.xlsx
+│ ├── query1_donations.csv
+│ └── query2_highest_regional_impact.csv
 │
 ├── images/
-│   └── dashboard_screenshot.png
+│ └── dashboard_screenshot.png
 │
 └── README.md
 
