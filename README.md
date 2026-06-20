@@ -5,6 +5,10 @@ An end-to-end data analytics project using **PostgreSQL** and **Microsoft Excel*
 > **Data Source:** This project uses the GoodThought NGO dataset from DataCamp's Data Analyst track. The analysis, SQL queries, dashboard, and business insights are entirely my own work.
 
 ---
+## Dashboard Preview
+![Dashboard](images/dashboard_screenshot.png)
+
+---
 
 ## Project Objectives
 
