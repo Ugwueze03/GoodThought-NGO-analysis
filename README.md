@@ -90,3 +90,9 @@ GoodThought-NGO-Donation-Analysis/
 
 ---
 
+
+## 👤 Author
+**Stephen Ugwueze**
+Aspiring Data Analyst passionate about SQL, Excel, Power BI, and transforming raw data into meaningful insights.
+
+---
