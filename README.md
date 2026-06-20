@@ -85,6 +85,6 @@ GoodThought-NGO-Donation-Analysis/
 **Output:** [View CSV](result/query2_highest_regional_impa...)
 
 ## Dashboard Preview
-![Dashboard](images/dashboard_screenshot.png)
+![Dashboard](images/dashboard%20screenshot.png)
 
 ---
