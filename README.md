@@ -6,6 +6,12 @@ An end-to-end data analytics project using **PostgreSQL** and **Microsoft Excel*
 
 ---
 
+## Dashboard Preview
+![Dashboard](images/dashboard%20screenshot.png)
+
+---
+
+
 ## Project Objectives
 
 This project answers two key business questions:
@@ -84,7 +90,3 @@ GoodThought-NGO-Donation-Analysis/
 **SQL:** [View Code](sql/goodthought_analysis.sql#L15-L29)
 **Output:** [View CSV](result/query2_highest_regional_impa...)
 
-## Dashboard Preview
-![Dashboard](images/dashboard%20screenshot.png)
-
----
